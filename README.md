@@ -29,20 +29,18 @@ Please download the following files from this repository:
 [FRAMalyse Introduction Video](https://syncandshare.lrz.de/getlink/fiRriwZiuXEmmQaUvsKLHe/FRAMalyse%20Introduction.mp4)
 
 ### How to Use FRAMalyse for Testing
-- Follow the tasks outlined in `4 - Task`.
-- Report any **bugs, errors, or unexpected behavior**.
-- Provide **feedback on usability, functionality, and suggestions**.
+- Complete the tasks in `4 - Task` to familiarize yourself with FRAMalyse.
+- Use FRAMalyse to analyze your own FRAM model after finishing `4 - Task`.
+- Report any **bugs, errors, or unexpected behavior** via [GitHub Issues](https://github.com/YiranDu2018/Beta-Test-for-FRAMalyse/issues).
 
 ### Feedback Submission
 Please complete the **Feedback Survey** at the following link:
 👉 **[Feedback-Survey](#)** *(Insert actual survey link here)*
 
 ---
-## 🛠 Troubleshooting
-If you encounter any issues:
-- Check the **FAQ section** in `Manual.pdf`.
-- Create an **issue** in this repository.
-- Contact us via **[email@example.com](mailto:email@example.com)**.
+  ## 📩 Contact
+- **Dr.-Ing. Niklas Grabbe** ([n.grabbe@tum.de](mailto:n.grabbe@tum.de))
+- **Yiran Du** ([yiran.du@tum.de](mailto:yiran.du@tum.de))
 
 ---
 ## 📌 Notes
