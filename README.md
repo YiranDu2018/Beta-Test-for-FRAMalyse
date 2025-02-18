@@ -32,6 +32,8 @@ Please download the following files from this repository:
 - Complete the tasks in `4 - Task` to familiarize yourself with FRAMalyse.
 - Use FRAMalyse to analyze your own FRAM model after finishing `4 - Task`.
 - Report any **bugs, errors, or unexpected behavior** via [GitHub Issues](https://github.com/YiranDu2018/Beta-Test-for-FRAMalyse/issues).
+- For discussions, feature requests, or to ask questions, please visit [GitHub Discussions](https://github.com/YiranDu2018/Beta-Test-for-FRAMalyse/discussions) page.
+
 
 ### Feedback Submission
 Please complete the **Feedback Survey** at the following link:
