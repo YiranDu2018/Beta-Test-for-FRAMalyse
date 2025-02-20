@@ -36,7 +36,7 @@ Please download the following files from this repository:
 
 
 ### Feedback Submission
-Please complete the **Feedback Survey** at the following link:
+Please complete the **Feedback Survey** at the following link when you have finished the beta testing:
 👉 **[Feedback-Survey](#)** *(https XXXXXXXXXXXXX)*
 
 ---
