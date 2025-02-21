@@ -38,8 +38,8 @@ Please download the following files from this repository:
 
 
 ### Feedback Submission
-Please complete the **Feedback Survey** at the following link when you have finished the beta testing:
-👉 **[Feedback-Survey](#)** *(https XXXXXXXXXXXXX)*
+Please complete the **Feedback Survey** at the following link when you have finished the beta testing:  
+👉 **[Feedback-Survey](https://survey.lfe.mw.tum.de/index.php/896521?lang=en)**
 
 ---
   ## 📩 Contact
