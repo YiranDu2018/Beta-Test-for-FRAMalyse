@@ -32,6 +32,8 @@ Please download the following files from this repository:
 ### Watch the FRAMalyse introduction video
 [FRAMalyse Introduction Video](https://syncandshare.lrz.de/getlink/fiRriwZiuXEmmQaUvsKLHe/FRAMalyse%20Introduction.mp4)
 
+**Note:** Do not forget to turn on the audio.
+
 ### How to Use FRAMalyse for Testing
 - Complete the tasks in `4 - Task` to familiarize yourself with FRAMalyse.
 - Use FRAMalyse to analyze your own FRAM model after finishing `4 - Task`.
