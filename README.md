@@ -5,7 +5,7 @@ Thank you for participating in the beta testing of **FRAMalyse**. This applicati
 
 Your feedback is invaluable in improving the software before the final release.
 
-The beta phase lasts 5 weeks, starting on **February 24** and ending on **March 31**. You can use, test, and give feedback on the software independently and completely flexibly within your own time frame. We would appreciate it if you could complete the test within the first 3 weeks. 
+The beta phase lasts 5 weeks, starting on **February 24** and ending on **March 31**. You can use, test, and give feedback on the software independently and completely flexibly within your own time frame. The time required is approximately 3-4 hours. We would appreciate it if you could complete the test within the first 3 weeks. 
 
 ---
 ## 📥 Installation & Setup
