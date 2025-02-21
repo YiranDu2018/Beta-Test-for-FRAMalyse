@@ -13,6 +13,8 @@ The beta phase lasts 5 weeks, starting on **February 24** and ending on **March 
 Please click the following link to download the FRAMalyse Installation File:  
 - **[1 - Installation File](https://drive.google.com/file/d/1otzpfxX-SujOOS6DgbKUpHsDGDrs07EA/view?usp=sharing)**  
 
+**Note:** FRAMalyse can currently only be installed on Windows computers.
+
 Please download the following files from this repository:  
 - **2 - Start File**  
 - **3 - FRAMalyse-1.1.0_User_Guide_0602**  
